@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1533204600 source:c:\users\shweta\documents\1710\employeemanagement\src\pay.cpp
+	"Pay.h"
+
+1533204600 c:\users\shweta\documents\1710\employeemanagement\include\pay.h
+
+1533207167 source:c:\users\shweta\documents\1710\employeemanagement\main.cpp
+	<iostream>
+	"Staff.h"
+
+1533207410 c:\users\shweta\documents\1710\employeemanagement\include\staff.h
+	<string>
+
