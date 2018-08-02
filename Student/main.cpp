@@ -1,9 +1,9 @@
 #include <iostream>
-
+#include "Student.h"
 using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    Student student1("Shweta", "Kauthankar", "MCA");
     return 0;
 }

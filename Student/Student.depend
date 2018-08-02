@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1533209547 source:c:\users\shweta\documents\1710\student\main.cpp
+	<iostream>
+	"Student.h"
+
+1533209515 c:\users\shweta\documents\1710\student\include\student.h
+	<string>
+
