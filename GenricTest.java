@@ -18,9 +18,19 @@ public class GenricTest {
 
 	}
 	static <E> void printList(List<E> myList) {
+		Iterator<E> myItr = myList.iterator();
+		while(myItr.hasNext()) {
+			System.out.println(myItr.next() + "...");
+		}
+		System.out.println();
+		
+		
+		
+		/*
 		for(E item : myList) {
 			System.out.println("--->" + item);
 		}
+		*/
 	}
 
 }
